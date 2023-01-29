@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 # Introduction
 
--🔭 I’m currently working on a social media application that allows user to share homemade meals
+- 🔭 I’m currently working on a social media application that allows user to share homemade meals
 - 🌱 I’m currently learning Express.js, Javascript, and Python
 - 📫 How to reach me: linkedIn
 - 😄 Pronouns: He/Him
