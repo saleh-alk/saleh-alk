@@ -1,4 +1,4 @@
-### Hi there, I'm Saleh ALkaheli 👋
+### Hi there, I'm Saleh Alkaheli 👋
 
 <!--
 **saleh-alk/saleh-alk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
