@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy, running, swimming, and rock climbing
+- 📍 San Francisco, CA
 - <a href="https://www.salehalkaheli.com" target="_blank">My Portfolio</a>
 
 
