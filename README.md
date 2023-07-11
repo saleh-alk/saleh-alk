@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-[![Saleh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saleh-alk)](https://github.com/saleh-alk/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saleh-alk)](https://github.com/saleh-alk/github-readme-stats)
 
 
