@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a social media application that allows user to share homemade meals
 - 🌱 I’m currently learning Express.js, Javascript, and Python
 - 📫 How to reach me: linkedIn
-- 😄 Pronouns: He/Him
+ 
 - ⚡ Fun fact: I enjoy, running, swimming, and rock climbing
 - 📍 San Francisco, CA
 - <a href="https://www.salehalkaheli.com" target="_blank">My Portfolio</a>
